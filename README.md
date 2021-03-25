@@ -2,8 +2,8 @@
 
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
 Derslerde python 3.8 ve VSCode kullanılmıştır.
-Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.
-Konular şu şekildedir:
+Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.<br/>
+### Konular şu şekildedir:
 
 1) Pythonda nesneler ve operatörler
 2) Pythonda akış elemanları(if, else) ve döngüler(while, for)
