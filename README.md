@@ -17,3 +17,9 @@ Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.<br/>
   3) Fonksiyonel programlamanın açıklanması ve pythonda çok kullanılan built-in fonksiyonların gösterimi ve pythonda fonksiyonları tanımlanması, örnek fonksiyonların yazılımı.
   4) Programlamada OOP(Nesne tabanlı programlama)'nin açıklanması, pythonda classların kullanımı ve örnek classların yazılımı.
   5) Modüler programlamanın ne olduğunu açıklanması ve pythonda modüllerin kullanımına yönelik örneklerin gösterimi.
+
+
+#### 0. Hafta: Python ve ide kurulumu, kaynak tavsiyeleri, Hello World! programı.
+Windowsa python indirmek için <a href="https://www.python.org/downloads/">bu linkden</a> size uygun installera ulaşabilirsiniz. Mac ve linux için **sudo apt-get install**
+yazmak yeterlidir(Genelde mac ve linux distrolarında python kuruludur.). İndirdikten sonra bir komut satırı veya terminal açarak python --version yazarak kontrol edebilirsiniz.<br/>
+VSCode indirme linkine <a href="https://code.visualstudio.com/Download">buradan</a> ulaşabilirsiniz.
