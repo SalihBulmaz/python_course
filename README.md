@@ -3,7 +3,7 @@ Python 3.8 Kursu
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
 Kurs boyunca ders videolarına aşağıdaki linkten ulaşabilirsiniz.
 LİNKS
-Konular şu şekildedir.
+Konular şu şekildedir.\n
 0) IDE kurulumu, python kurulumu ve kaynak tavsiyeleri, Hello world! programı
 1) Pythonda nesneler ve operatörler
 2) Pythonda akış elemanları(if, else) ve döngüler(while, for)
