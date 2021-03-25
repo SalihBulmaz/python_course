@@ -1,5 +1,5 @@
 # Python 3.x Kursu
-<p style="text-align: center"><b>Katılmak için hiç de geç değil!</b> <a style="font-size:2rem;" href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
+<p style="font-size: 32px;text-align: center"><b>Katılmak için hiç de geç değil!</b> <a style="font-size:2rem;" href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
 Derslerde python 3.8 ve VSCode kullanılmıştır.
 Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.<br/>
