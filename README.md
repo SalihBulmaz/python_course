@@ -27,7 +27,7 @@ Bütün işletim sistemleri için VSCode indirme linkine <a href="https://code.v
 Terminali veya komut satırını açın, python yazıp entera basın. Çıkan ekrana **print('Hello World!')** yazın ve entera basın. Ekranda Hello World! çıkıyorsa tebrikler ilk aşamayı geçtiniz. Artık bir programcısınız👌.
 #### Kaynak tavsiyeleri:
 Repository içinde kaynaklar klasörü içinden kitap pdflerine ulaşabilirsiniz. Bir İngilizce ve bir Türkçe kitap bulunmaktadır.<br/>
-**Yararlı websiteleri:**<br/>
+**Yararlı websiteleri ve Youtube videoları:**<br/>
 1) <a href="https://docs.python.org/3/tutorial/index.html">Official python.org tutorial(Şiddetle tavsiye edilir.)<a/>
 2) <a href="https://pythonspot.com/all-tutorials/">Pythonspot python tutorials<a/>
 3) <a href="https://python-istihza.yazbel.com/">Kaynaklar klasöründeki türkçe kitabın düzenli bir websitesi hali<a/>
