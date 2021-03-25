@@ -1,8 +1,8 @@
 # Python 3.x Kursu
 
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
-Kurs boyunca ders videolarına aşağıdaki linkten ulaşabilirsiniz.
-LİNKS
+Derslerde python 3.8 ve VSCode kullanılmıştır.
+Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.
 Konular şu şekildedir:
 
 1) Pythonda nesneler ve operatörler
