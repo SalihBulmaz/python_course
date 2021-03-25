@@ -1,5 +1,5 @@
 # Python3 Kursu
-<p style="font-size: 32px;text-align: center"><b>Katılmak için hiç de geç değil!</b> <a style="font-size:2rem;" href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
+<p style="font-size: 32px;text-align: center"><a href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
 Derslerde python 3.8 ve VSCode kullanılmıştır.
 Ders videolarına <a href="https://ituedutr-my.sharepoint.com/:f:/g/personal/bulmaz19_itu_edu_tr/EuGeutFYe2NDq40iLoKcl9ABqpxZPz1J7d9-OO8E4trN_w?e=QEcvWR">buradan</a> ulaşabilirsiniz(Şifre "pythonkursu").<br/>
