@@ -11,7 +11,7 @@ Konular şu şekildedir.
 4) OOP yapısı ve pythonda class
 5) Modüler programlama ve pythonda modüller
 
-Dersler aşağıdaki maddeleri içermektedir:
+### Dersler aşağıdaki maddeleri içermektedir:
   1) Programlamada nesnenin açıklanması ve pythondaki çok kullanılan belirli nesnelerin gösterimi ve operatör türlerinin gösterilmesi, örnek kodlar ile operatörlerin kavranması.
   2) Akış elemanları ve döngülerin öneminin kavranması ve pythonda if, elif, else ve for, while elemanlarının kullanımı.
   3) Fonksiyonel programlamanın açıklanması ve pythonda çok kullanılan built-in fonksiyonların gösterimi ve pythonda fonksiyonları tanımlanması, örnek fonksiyonların yazılımı.
