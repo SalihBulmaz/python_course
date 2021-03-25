@@ -23,3 +23,5 @@ Ders videolarına <a href="#">buradan</a> ulaşabilirsiniz.<br/>
 Windowsa python indirmek için <a href="https://www.python.org/downloads/">bu linkden</a> size uygun installera ulaşabilirsiniz. <br/>Mac ve linux için **sudo apt-get install python**
 yazmak yeterlidir(Genelde mac ve linux distrolarında python kuruludur.). İndirdikten sonra bir komut satırı veya terminal açarak **python --version** yazarak kontrol edebilirsiniz.<br/>
 Bütün işletim sistemleri için VSCode indirme linkine <a href="https://code.visualstudio.com/Download">buradan</a> ulaşabilirsiniz.
+<br/>Hello World! programı:<br/>
+Terminali veya komut satırını açın, python yazıp entera basın. Çıkan ekrana print('Hello World!') yazın ve entera basın. Ekranda Hello World! çıkıyorsa tebrikler ilk aşamayı geçtiniz artık bir programcısınız👌.
