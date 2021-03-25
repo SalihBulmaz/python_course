@@ -29,9 +29,9 @@ Terminali veya komut satırını açın, python yazıp entera basın. Çıkan ek
 ### Kaynak tavsiyeleri:
 Repository içinde kaynaklar klasörü içinden kitap pdflerine ulaşabilirsiniz. Hem Türkçe hem İngilizce kitaplara yer verilmiştir.<br/>
 **Yararlı websiteleri ve Youtube videoları:**<br/>
-1) <a href="https://docs.python.org/3/tutorial/index.html">Official python.org tutorial(Şiddetle tavsiye edilir.)<a/>
-2) <a href="https://pythonspot.com/all-tutorials/">Pythonspot python tutorials<a/>
-3) <a href="https://python-istihza.yazbel.com/">Inzva python kitabının websitesi olarak düzenli bir hali<a/>
-4) <a href="https://www.pythondersleri.com/p/python-baslangc.html">Pythondersleri websitesi<a/>
-5) <a href="https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O">Türkçe python dersleri(Youtube)<a/>
-6) <a href="https://www.youtube.com/playlist?list=PLYpb-86WGZm1uwy7_XjXLs9_4coFqOBps">İngilizce uzun python videoları(Youtube)<a/>
+1) <a target="_blank" href="https://docs.python.org/3/tutorial/index.html">Official python.org tutorial(Şiddetle tavsiye edilir.)<a/>
+2) <a target="_blank" href="https://pythonspot.com/all-tutorials/">Pythonspot python tutorials<a/>
+3) <a target="_blank" href="https://python-istihza.yazbel.com/">Inzva python kitabının websitesi olarak düzenli bir hali<a/>
+4) <a target="_blank" href="https://www.pythondersleri.com/p/python-baslangc.html">Pythondersleri websitesi<a/>
+5) <a target="_blank" href="https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O">Türkçe python dersleri(Youtube)<a/>
+6) <a target="_blank" href="https://www.youtube.com/playlist?list=PLYpb-86WGZm1uwy7_XjXLs9_4coFqOBps">İngilizce uzun python videoları(Youtube)<a/>
