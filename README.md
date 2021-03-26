@@ -1,7 +1,7 @@
 # Python3 Kursu
 <p><a href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
-Derslerde python 3.8 ve VSCode kullanılmıştır.
+Derslerde python 3.9 ve VSCode kullanılmıştır.
 
 ## Konular şu şekildedir:
 
