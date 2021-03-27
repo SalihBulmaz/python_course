@@ -1,8 +1,7 @@
 # Python3 Kursu
-<p style="font-size: 32px;text-align: center"><a href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
+<p><a href = "https://discord.gg/nAhuNPzAH9"><b>Discord Sunucumuz</b> </a></p>
 Bu kurs temelden başlayarak programlama ve python detaylı bir şekilde öğretmeyi planlar.
-Derslerde python 3.8 ve VSCode kullanılmıştır.
-Ders videolarına <a href="https://ituedutr-my.sharepoint.com/:f:/g/personal/bulmaz19_itu_edu_tr/EuGeutFYe2NDq40iLoKcl9ABqpxZPz1J7d9-OO8E4trN_w?e=QEcvWR">buradan</a> ulaşabilirsiniz(Şifre "pythonkursu").<br/>
+Derslerde python 3.9 ve VSCode kullanılmıştır.
 
 ## Konular şu şekildedir:
 
@@ -27,11 +26,11 @@ Bütün işletim sistemleri için VSCode indirme linkine <a href="https://code.v
 ### Hello World! programı:
 Terminali veya komut satırını açın, python yazıp entera basın. Çıkan ekrana **print('Hello World!')** yazın ve entera basın. Ekranda Hello World! çıkıyorsa tebrikler ilk aşamayı geçtiniz. Artık bir programcısınız👌.
 ### Kaynak tavsiyeleri:
-Repository içinde kaynaklar klasörü içinden kitap pdflerine ulaşabilirsiniz. Hem Türkçe hem İngilizce kitaplara yer verilmiştir.<br/>
+Drive içinde kaynaklar klasörü içinden kitap pdflerine ulaşabilirsiniz. Hem Türkçe hem İngilizce kitaplara yer verilmiştir.<br/>
 **Yararlı websiteleri ve Youtube videoları:**<br/>
 1) <a href="https://docs.python.org/3/tutorial/index.html">Official python.org tutorial(Şiddetle tavsiye edilir.)<a/>
 2) <a href="https://pythonspot.com/all-tutorials/">Pythonspot python tutorials<a/>
-3) <a href="https://python-istihza.yazbel.com/">Inzva python kitabının websitesi olarak düzenli bir hali<a/>
+3) <a href="https://python-istihza.yazbel.com/">Kaynaklardaki türkçe python kitabının websitesi olarak düzenli bir hali<a/>
 4) <a href="https://www.pythondersleri.com/p/python-baslangc.html">Pythondersleri websitesi<a/>
 5) <a href="https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O">Türkçe python dersleri(Youtube)<a/>
 6) <a href="https://www.youtube.com/playlist?list=PLYpb-86WGZm1uwy7_XjXLs9_4coFqOBps">İngilizce uzun python videoları(Youtube)<a/>
