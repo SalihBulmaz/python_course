@@ -1,7 +1,7 @@
 ### 1. Odev:
 Kullanıcıdan celcius biriminde sıcaklık değeri isteyin ve ekrana fahrenheit olarak bastırın.
 ### 2. Odev:
-Kullanıcıdan 2 dereceden bir bilinmeyenli denklem katsayılarını isteyin ve ekrana reel çözüm var mı kökler neler yazdırın. Odev:
+Kullanıcıdan 2 dereceden bir bilinmeyenli denklem katsayılarını isteyin ve ekrana reel çözüm var mı kökler neler yazdırın.(ax^2 + bx + c)
 ### 3. Odev:
 Bir manav dükkanını simüle etmek için en az 3 sebze belirleyin ve program başlar başlamaz fiyatlarını ekrana bastırın. Sırasıyla sebzelerden kaçar kg aldığını sorup fiyatıyla çarparak toplam fiyatı ekrana bastırın.
 ### 4. Odev:
